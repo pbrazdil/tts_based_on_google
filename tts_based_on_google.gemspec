@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.version       = TTSBasedOnGoogle::VERSION
   gem.authors       = ["Petr Brazdil"]
   gem.email         = ["p.brazdil@gmail.com"]
-  gem.description   = %q{Provides Text-to-speech functionality in many languages. Results can be stored into MP3 file. Based on technologies from Google.}
+  gem.description   = %q{Provides Text-to-speech functionality in many languages. Results can be stored into MP3 file or send to output. Based on technologies from Google.}
   gem.summary       = %q{Provides Text-to-speech functionality in many languages. Results can be stored into MP3 file.}
   gem.homepage      = "https://github.com/pbrazdil/tts_based_on_google"
 
