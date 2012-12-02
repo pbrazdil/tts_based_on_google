@@ -1,6 +1,6 @@
 # TTSBasedOnGoogle
 
-This Ruby gem provides Text-to-speech functionality in many languages. Result can be stored in MP3 file. Based on technologies from Google.
+This Ruby gem provides Text-to-speech functionality in many languages. Result can be stored in MP3 file or send to output. Based on technologies from Google.
 
 ## Installation
 
